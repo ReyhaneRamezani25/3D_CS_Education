@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0ffe1c6ee6e0b944cad3859555595a8d
+  - enabled: 1
+    path: Assets/Scenes/menuSecene.unity
+    guid: 6707f3e8862d5d045ae3d673ed270df4
+  - enabled: 1
+    path: Assets/Scenes/datastructureMenu.unity
+    guid: d6a8fcba1ba120d4a85bc5c2caf4afd7
+  - enabled: 1
+    path: Assets/Scenes/ArrayListScene.unity
+    guid: fdd72cf47b8b91649bb9beb1c5b9ab23
+  - enabled: 1
+    path: Assets/Scenes/ArrayListInsertion.unity
+    guid: 31b33627efd89c84387f39024ad2be1e
+  - enabled: 1
+    path: Assets/Scenes/ArrayListIntroductionScene.unity
+    guid: 29a10da914325ab489bdb5105a790e6d
+  - enabled: 1
+    path: Assets/Scenes/ArrayListDelete.unity
+    guid: e26f62ab8ac0c4949bd030d941c766c6
+  - enabled: 1
+    path: Assets/Scenes/texstsScene.unity
+    guid: 87ac2399a926f6344aa9f988bb60bc76
+  - enabled: 1
+    path: Assets/Scenes/testScene.unity
+    guid: e6e27955a86745b49b8fa039fb7d0e00
+  - enabled: 1
+    path: Assets/Scenes/SinglyLinkedListScene.unity
+    guid: c655aadd9bd1ff441893d0ac9813c509
+  - enabled: 1
+    path: Assets/Scenes/SinglyLinkedListIntroduction.unity
+    guid: 2f5d3e3bede062949a1cf55456075c9a
+  - enabled: 1
+    path: Assets/Scenes/SinglyLinkedListInsertion.unity
+    guid: 3cb134b62f71e374fa41ba26523e1497
+  - enabled: 1
+    path: Assets/Scenes/SinglyLinkedListDeletion.unity
+    guid: ea59b9878e250294ba60b0fe31451601
+  - enabled: 1
+    path: Assets/Scenes/SinglyLinkedListMakeEmpty.unity
+    guid: ee21568217e7bd941b2d22f599cf26c8
+  - enabled: 1
+    path: Assets/Scenes/DoublyLinkedListScene 1.unity
+    guid: ef9f275f5fca8e0468e2978d515f0e96
+  - enabled: 1
+    path: Assets/Scenes/DoublyLinkedListIntroduction.unity
+    guid: 12c45f8974892d14995d169456d7cbc0
+  - enabled: 1
+    path: Assets/Scenes/DoublyLinkedListInsertion.unity
+    guid: 5270b214a5dd26740af382e2dfbf6ee9
+  - enabled: 1
+    path: Assets/Scenes/DoublyLinkedListDeletion.unity
+    guid: d4701e821a6772741891868a588b8075
+  - enabled: 1
+    path: Assets/Scenes/Queue.unity
+    guid: d1384d473324c3e43bc19fad60e5f069
+  - enabled: 1
+    path: Assets/Scenes/queueIntroduction.unity
+    guid: 7a0fbcae660a0bf499d8a2db00102c7a
+  - enabled: 1
+    path: Assets/Scenes/queueInsertion.unity
+    guid: f55768bf5ee848345bbf979d4fdfbf8b
+  m_configObjects: {}
