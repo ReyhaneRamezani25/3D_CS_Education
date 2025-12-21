@@ -68,4 +68,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/queueInsertion.unity
     guid: f55768bf5ee848345bbf979d4fdfbf8b
+  - enabled: 1
+    path: Assets/Scenes/queueDeletion.unity
+    guid: 8da8ac8a1f7367b45b9a1dc07841f473
   m_configObjects: {}
