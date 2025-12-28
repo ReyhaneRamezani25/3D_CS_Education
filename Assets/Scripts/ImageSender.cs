@@ -9,6 +9,7 @@ public class ImageSender : MonoBehaviour
     public void SendImage()
     {
         ImageTransfer.SelectedSprite = spriteToSend;
+        SceneHistory.PushCurrent();
         SceneManager.LoadScene(targetScene);
     }
 }
