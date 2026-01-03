@@ -271,7 +271,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 4612e8fb1ec5e214da681976a36d1f68, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7a55e9bc22799dc43893380bc5216158, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -799,7 +799,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: queueInsertion
+          m_StringArgument: LinkedListQueueInsertion
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &262479205
@@ -2014,7 +2014,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "\u062F\u0631\u062C \u0639\u0646\u0635\u0631 \u062C\u062F\u06CC\u062F \u062F\u0631
-    \u0635\u0641 \u0622\u0631\u0627\u06CC\u0647 \u0627\u06CC"
+    \u0635\u0641 \u0628\u0627 \u0644\u06CC\u0633\u062A \u067E\u06CC\u0648\u0646\u062F\u06CC"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ab4aa7067bb09874e9da5622300fedd9, type: 2}
   m_sharedMaterial: {fileID: 392327299788109050, guid: ab4aa7067bb09874e9da5622300fedd9, type: 2}
