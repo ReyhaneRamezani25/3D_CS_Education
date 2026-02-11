@@ -1612,7 +1612,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 361c67b01ac559e44ae1454edcca9a22, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: DoublyLinkedListScene 1
+  sceneToLoad: DoublyLinkedListMenu
 --- !u!4 &251576790
 Transform:
   m_ObjectHideFlags: 0
@@ -2717,8 +2717,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u062D\u0630\u0641 \u0627\u0632 \u0644\u06CC\u0633\u062A \u067E\u06CC\u0648\u0646\u062F\u06CC
-    \u062F\u0648 \u0637\u0631\u0641\u0647"
+  m_text: "\u062D\u0630\u0641 \u0639\u0646\u0635\u0631 \u0627\u0632 \u0644\u06CC\u0633\u062A
+    \u067E\u06CC\u0648\u0646\u062F\u06CC \u062F\u0648 \u0637\u0631\u0641\u0647"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ab4aa7067bb09874e9da5622300fedd9, type: 2}
   m_sharedMaterial: {fileID: 392327299788109050, guid: ab4aa7067bb09874e9da5622300fedd9, type: 2}
